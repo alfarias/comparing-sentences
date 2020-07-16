@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alfarias/comparing-sentences/master)
+
 # Comparing Sentences with Topic Modelling
 
 The task consists in compare two sentences present on the dataset and identify if both have the same meaning.
